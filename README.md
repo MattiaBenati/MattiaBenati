@@ -69,5 +69,5 @@ Software for cognitive rehabilitation support
 
 ## 📫 Contact
 
-📧 benatimattia20@gmail.com  
+📧 benatimattia25@gmail.com  
 🔗 github.com/MattiaBenati
