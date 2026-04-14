@@ -4,7 +4,7 @@ I'm a **Software Engineer** with a Master's degree in Software Engineering from 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattiabenati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benatimattia25@gmail.com) 
 
---
+
 
 ### 💻 Tech Stack
 
@@ -42,7 +42,7 @@ I'm a **Software Engineer** with a Master's degree in Software Engineering from 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
---
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MattiaBenati&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
