@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I'm a Software Engineer with a Master's degree in Software Engineering from the Free University of Bozen-Bolzano, focused on turning complex problems into scalable and reliable systems, with an emphasis on clean design, real-world impact, and building solutions where precision and reliability are fundamental.
+I'm a **Software Engineer** with a Master's degree in Software Engineering from the **Free University of Bozen-Bolzano**, focused on turning complex problems into scalable and reliable systems, with an emphasis on clean design, real-world impact, and building solutions where *precision* and *reliability* are fundamental.
 
 
 ### 🌐 Socials:
