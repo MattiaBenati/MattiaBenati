@@ -1,11 +1,11 @@
-# 💫 About Me:
+### 💫 About Me:
 I'm a Software Engineer with a Master's degree in Software Engineering from the Free University of Bozen-Bolzano, focused on turning complex problems into scalable and reliable systems, with an emphasis on clean design, real-world impact, and building solutions where precision and reliability are fundamental.
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattiabenati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benatimattia25@gmail.com) 
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 #### 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +41,7 @@ I'm a Software Engineer with a Master's degree in Software Engineering from the 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MattiaBenati&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MattiaBenati&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MattiaBenati&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
