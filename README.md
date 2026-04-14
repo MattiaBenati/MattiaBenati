@@ -1,9 +1,10 @@
 ### 💫 About Me:
 I'm a **Software Engineer** with a Master's degree in Software Engineering from the **Free University of Bozen-Bolzano**, focused on turning complex problems into scalable and reliable systems, with an emphasis on clean design, real-world impact, and building solutions where *precision* and *reliability* are fundamental.
 
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattiabenati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benatimattia25@gmail.com) 
+
+---
 
 ### 💻 Tech Stack
 
@@ -40,6 +41,8 @@ I'm a **Software Engineer** with a Master's degree in Software Engineering from 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MattiaBenati&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
