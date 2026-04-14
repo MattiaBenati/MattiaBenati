@@ -1,6 +1,8 @@
 ### 💫 About Me:
 I'm a **Software Engineer** with a Master's degree in Software Engineering from the **Free University of Bozen-Bolzano**, focused on turning complex problems into scalable and reliable systems, with an emphasis on clean design, real-world impact, and building solutions where *precision* and *reliability* are fundamental.
 
+---
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattiabenati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benatimattia25@gmail.com) 
 
