@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I'm a Software Engineer who enjoys turning practical needs into useful, thoughtfully designed software. I care about how applications are built and how people experience them, bringing together clear structure, usability, and attention to detail. I'm curious about new approaches and enjoy exploring how they can solve real problems.
+I'm a **Software Engineer** who enjoys turning practical needs into useful, thoughtfully designed software. I care about how applications are built and how people experience them, bringing together clear structure, usability, and attention to detail. I'm curious about new approaches and enjoy exploring how they can solve real problems.
 
 ---
 
